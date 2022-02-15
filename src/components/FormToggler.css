@@ -1,0 +1,7 @@
+.button {
+  background-color: inherit;
+  border: none;
+  text-transform: uppercase;
+  color: #4285f4;
+  cursor: pointer;
+}
